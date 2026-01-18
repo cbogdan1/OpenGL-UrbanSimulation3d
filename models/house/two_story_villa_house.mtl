@@ -1,0 +1,206 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 15.05.2021 14:03:53
+
+newmtl roof_Mat
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka roof_Mat_Diffuse.png
+	map_Kd roof_Mat_Diffuse.png
+	map_Ks roof_Mat_Specular.png
+	map_bump roof_Mat_Normal.png
+	bump roof_Mat_Normal.png
+
+newmtl walls_1st_floor_Mat
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka walls_1st_floor_Mat_Diffuse.png
+	map_Kd walls_1st_floor_Mat_Diffuse.png
+	map_Ks walls_1st_floor_Mat_Specular.png
+	map_bump walls_1st_floor_Mat_Normal.png
+	bump walls_1st_floor_Mat_Normal.png
+
+newmtl ground_Mat
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka ground_Mat_Diffuse.png
+	map_Kd ground_Mat_Diffuse.png
+	map_Ks ground_Mat_Specular.png
+	map_bump ground_Mat_Normal.png
+	bump ground_Mat_Normal.png
+
+newmtl walls_2nd_floor_Mat
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka walls_2nd_floor_Mat_Diffuse.png
+	map_Kd walls_2nd_floor_Mat_Diffuse.png
+	map_Ks walls_2nd_floor_Mat_Specular.png
+	map_bump walls_2nd_floor_Mat_Normal.png
+	bump walls_2nd_floor_Mat_Normal.png
+
+newmtl windows_frame_02_Mat
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka windows_frame_02_Mat_Diffuse.png
+	map_Kd windows_frame_02_Mat_Diffuse.png
+	map_Ks windows_frame_02_Mat_Specular.png
+	map_bump windows_frame_02_Mat_Normal.png
+	bump windows_frame_02_Mat_Normal.png
+
+newmtl stairs_Mat
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka stairs_Mat_Diffuse.png
+	map_Kd stairs_Mat_Diffuse.png
+	map_Ks stairs_Mat_Specular.png
+	map_bump stairs_Mat_Normal.png
+	bump stairs_Mat_Normal.png
+
+newmtl windows_frame_Mat
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka windows_frame_Mat_Diffuse.png
+	map_Kd windows_frame_Mat_Diffuse.png
+	map_Ks windows_frame_Mat_Specular.png
+	map_bump windows_frame_Mat_Normal.png
+	bump windows_frame_Mat_Normal.png
+
+newmtl windows_glass_Mat
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka windows_glass_Mat_Diffuse.png
+	map_Kd windows_glass_Mat_Diffuse.png
+	map_Ks windows_glass_Mat_Specular.png
+	map_bump windows_glass_Mat_Normal.png
+	bump windows_glass_Mat_Normal.png
+
+newmtl walls_middle_Mat
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka walls_middle_Mat_Diffuse.png
+	map_Kd walls_middle_Mat_Diffuse.png
+	map_Ks walls_middle_Mat_Specular.png
+	map_bump walls_middle_Mat_Normal.png
+	bump walls_middle_Mat_Normal.png
+
+newmtl collona_Mat
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka collona_Mat_Diffuse.png
+	map_Kd collona_Mat_Diffuse.png
+	map_Ks collona_Mat_Specular.png
+	map_bump collona_Mat_Normal.png
+	bump collona_Mat_Normal.png
+
+newmtl railing_Mat
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka railing_Mat_Diffuse.png
+	map_Kd railing_Mat_Diffuse.png
+	map_Ks railing_Mat_Specular.png
+	map_bump railing_Mat_Normal.png
+	bump railing_Mat_Normal.png
+
+newmtl sewer_Mat
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka sewer_Mat_Diffuse.png
+	map_Kd sewer_Mat_Diffuse.png
+	map_Ks sewer_Mat_Specular.png
+	map_bump sewer_Mat_Normal.png
+	bump sewer_Mat_Normal.png

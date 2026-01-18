@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\bogdan\Desktop\AN3\PG\MAIN_PROJECT\Proiect\Proiect\main.cpp(323,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bogdan\Desktop\AN3\PG\MAIN_PROJECT\Proiect\Proiect\main.cpp(324,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bogdan\Desktop\AN3\PG\MAIN_PROJECT\Proiect\Proiect\main.cpp(328,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bogdan\Desktop\AN3\PG\MAIN_PROJECT\Proiect\Proiect\main.cpp(329,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bogdan\Desktop\AN3\PG\MAIN_PROJECT\Proiect\Proiect\main.cpp(330,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bogdan\Desktop\AN3\PG\MAIN_PROJECT\Proiect\Proiect\main.cpp(331,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Proiect.vcxproj -> C:\Users\bogdan\Desktop\AN3\PG\MAIN_PROJECT\Proiect\x64\Debug\Proiect.exe
